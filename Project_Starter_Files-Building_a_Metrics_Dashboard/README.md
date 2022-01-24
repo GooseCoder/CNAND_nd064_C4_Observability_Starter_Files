@@ -67,7 +67,6 @@ Description: There is a noticeable increase on the occurrence of 50x errors when
 
 Trace:
 ![jaeger-dashboard](./answer-img/tracing-star.png)
-![Python-Code](./answer-img/snap-code-python.png)
 
 ## Creating SLIs and SLOs
 *TODO:* We want to create an SLO guaranteeing that our application has a 99.95% uptime per month. Name four SLIs that you would use to measure the success of this SLO.
